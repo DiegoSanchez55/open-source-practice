@@ -1,2 +1,2 @@
-Please do not create GitHub issues for security vulnerabilities.
-Instead, report them via http://eddiejaoude.io/contact
+Diego Miguel Sánchez Cuenca
+FrontEnd Developer from Meta
